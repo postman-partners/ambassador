@@ -8,3 +8,5 @@ I pulled the Swagger 2.0 for Kubernetes and converted to OpenAPI 3.0, then synce
 - **DevOps Workflows** - Identify Ambassador DevOps workflows using Kubernetes requests, developing a menu of collections to accomplish common Ambassador features.
 - **Publish Collections** - Once we have one or more collections available, let's publish them under the Ambassador team page in the Postman API network.
 - **Further Integration** - Once we have the deployment, management, and other APIOps collections defined, we can consider what deeper integrations into Postman might look like.
+
+You can [view Postman documentation for this project](https://documenter.getpostman.com/view/8854915/T1LQhmVV), and play around with the collection using a Run in Postman button. If you have any comments or questions, leave them as GitHub issues and we'll work to answer them as soon as we can.
